@@ -12,7 +12,8 @@ Chord generation uing genetic algorithms
 pip install -r requirements.txt
 ```
 
-**Adjust weights in `main.py` file (line 99) to tweak the fitness function**
+>**Adjust weights in `main.py` file (line 99) to tweak the fitness function**
+
 ```python
 weights = {
     "chord_melody_congruence": 0.5,
